@@ -1,4 +1,4 @@
-# healthier_you_bismillah
+# healthier_you
 
 A new Flutter project.
 
